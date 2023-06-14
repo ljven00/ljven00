@@ -9,7 +9,7 @@ If you're interested in connecting and getting to know me better, don't be shy. 
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying at University of the People
 - 💞️ I’m looking to collaborate on any front end project or python/java related project
-- 📫 You can connect with me on LinkedIn, [https://www.linkedin.com/in/jean-venaldo-louissaint-37a509232/]
+- 📫 You can connect with me on LinkedIn, [Jean Venaldo Louissaint](https://www.linkedin.com/in/jean-venaldo-louissaint-37a509232/)
 
 <!---
 ljven00/ljven00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
