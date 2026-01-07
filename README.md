@@ -13,6 +13,29 @@ If you're interested in connecting and getting to know me better, don't be shy. 
 - 🤝 Looking to collaborate on: Python, SQL, and data analytics projects
 - 📫 You can connect with me on LinkedIn, [Jean Venaldo Louissaint](https://www.linkedin.com/in/jean-venaldo-louissaint-37a509232/)
 
+
+📊 Featured Projects
+
+- 🚲 CitiBike Rental Analysis
+  - Tools: SQL, Python (Pandas)
+  - Analyzed large-scale bike rental data to identify usage trends and demand patterns
+  - Cleaned, validated, and reconciled datasets to ensure data accuracy
+  - Delivered structured insights to support business decisions
+  - 🔗 Repository: [citibike-analysis](https://github.com/ljven00/citi-bike-rental)
+- Subscriber Cancellation Data Pipeline
+  - Tools: SQL, Python (Pandas)
+  - Created pipeline that ensures the flow of quality data to a sqlite database
+  - Cleaned and validated the data before its upload
+  - 🔗 Repository: [subs-canc-data-pipeline](https://github.com/ljven00/subs-canc-data-pipeline)
+- Visualizations Projects In progress
+  - Tools: Pyhton (Pandas, Matplotlib, Seaborn, R (tidyverse, ggplot2)
+
+📈 What I’m Working On
+
+- Advanced SQL querying and optimization
+- Pandas-based data transformation pipelines
+- Exploring large-scale data processing (Databricks / PySpark)
+
 <!---
 ljven00/ljven00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
