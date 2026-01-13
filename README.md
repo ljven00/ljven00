@@ -4,6 +4,37 @@ I am a Python Developer, Data Analyst, and Front-End Developer, currently workin
 
 As a problem solver, critical thinker, customer specialist and a team player, I thrive on tackling complex challenges and finding innovative solutions. I am constantly seeking opportunities to grow professionally, expand my knowledge, and stay up-to-date with the latest industry trends.
 
+💼 Professional Experience
+
+**Freelancer – Graphic Design & Administrative Reporting**
+*Jan 2020 – Present*
+
+- Provide freelance graphic design services for NGOs and small businesses, enhancing brand communication and project visibility.
+- Draft and edit administrative reports, memos, and summaries with attention to clarity and accuracy.
+- Prepare structured reports and summaries from raw data, ensuring clarity, accuracy, and consistency
+- Mentor peers in Python, SQL, databases, and general programming concepts, strengthening analytical and problem-solving skills
+
+**Volunteer – Mhatrix-NG (Haiti)**
+**Secretary Assistant / Task Manager / Spokesperson**
+*Jan 2020 – Mar 2021*
+
+- Coordinated administrative and project-related information across teams, improving data organization and communication workflows
+- Assisted with reporting and documentation used for internal decision-making
+- Supported multiple projects by organizing and validating operational information
+
+**Trilingual Customer Representative – TELUS**
+*Sep 2022 – May 2023*
+
+- Analyzed customer cases to identify root causes of technical and billing issues
+- Worked with internal teams to reconcile discrepancies in account and service data
+- Communicated complex information clearly to stakeholders in English and French in a fast-paced environment
+
+**Bilingual Customer Representative – TTEC**
+*Mar 2022 – Sep 2022*
+
+- Resolved customer issues by analyzing case data and following structured workflows
+- Maintained high quality and accuracy standards while handling large volumes of information
+
 If you're interested in connecting and getting to know me better, don't be shy. Let's explore how big can we make a positive impact in the world of technology together.
 
 - 📊 Proficient in: Python, SQL, PostgreSQL, Oracle DB, Excel, Tableau
@@ -14,7 +45,7 @@ If you're interested in connecting and getting to know me better, don't be shy. 
 - 📫 You can connect with me on LinkedIn, [Jean Venaldo Louissaint](https://www.linkedin.com/in/jean-venaldo-louissaint-37a509232/)
 
 
-📊 Featured Projects
+📊 Featured Data Projects
 
 - 🚲 CitiBike Rental Analysis
   - Tools: SQL, Python (Pandas)
