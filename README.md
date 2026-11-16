@@ -2,9 +2,11 @@
 
 ### About me
 
-I am a Python Developer, Data Analyst, and Front-End Developer, currently working towards completing a career path in Machine Learning. With a strong foundation in computer science and software development, I have experience in both data analysis and web development, allowing me to build data-driven applications that are both functional and user-friendly.
+I am a **Python Developer** with a Bachelor of Science in Computer Science and a strong foundation in software engineering, programming, and computer science fundamentals. I enjoy building practical, reliable, and maintainable software solutions, with a particular interest in Python development, data processing, automation, and backend systems.
 
-As a problem solver, critical thinker, customer specialist and a team player, I thrive on tackling complex challenges and finding innovative solutions. I am constantly seeking opportunities to grow professionally, expand my knowledge, and stay up-to-date with the latest industry trends.
+I am passionate about problem-solving and continuously improving my technical skills. My interests include data analysis, machine learning, and developing efficient solutions to real-world problems. I value clean code, thoughtful software design, and continuous learning.
+
+I am a critical thinker, problem solver, and collaborative team player. I am always looking for opportunities to apply my knowledge, contribute to meaningful projects, and grow as a software developer.
 
 ---
 
@@ -45,6 +47,7 @@ As a problem solver, critical thinker, customer specialist and a team player, I 
 
 **Bachelor of Science in Computer Science (In Progress)**
 *University of the People*
+Completed: November 2026
 
 ---
 
